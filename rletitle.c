@@ -6,7 +6,7 @@
 //#link "famitone2.s"
 //#link "boot_sound.s"
 
-//#resource "mmc3.cfg"
+//#resource "boot_sound.dmc"
 
 
 extern char boot_sound[];
