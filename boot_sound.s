@@ -46,4 +46,4 @@ _boot_sound:
 
 
 .segment "CODE6"
-	.incbin "boot_sound.dmc"
+;	.incbin "boot_sound.dmc"
